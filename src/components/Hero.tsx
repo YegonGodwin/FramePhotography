@@ -5,7 +5,7 @@ const heroTexts = [
   "Professional photography services for your special occasions",
   "Capturing life's precious moments with artistic excellence",
   "Creating timeless memories through our lens",
-  "Your story, our vision, one frame at a time",
+  "You, us, and the camera: a perfect combination",
 ];
 
 const heroImages = [
